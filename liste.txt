@@ -1,3 +1,4 @@
 ﻿yapılacaklar listesi
 
 1-Üye Kaydı
+2-üyelerin soru eklemesi
